@@ -9,5 +9,8 @@
   Solved the conflict between develope and main branch
 ![image](https://github.com/Tianrui-Luo/ECE444-F2023-Assignment1/assets/77422312/6354bc34-1090-49aa-a24a-76b668c3bc0c)
 ![image](https://github.com/Tianrui-Luo/ECE444-F2023-Assignment1/assets/77422312/e12adb85-9f92-4c23-8133-b7b25f1c8f56)
-
+* Activity 4 Screenshot
+  Commited utils.py and utils_tests.py to the repo
+![image](https://github.com/Tianrui-Luo/ECE444-F2023-Assignment1/assets/77422312/6795978e-023a-4d2c-b448-1b55b7cd45a7)
+![image](https://github.com/Tianrui-Luo/ECE444-F2023-Assignment1/assets/77422312/508b7eab-f7ad-424e-9962-f3cdbf1e3d6c)
 

@@ -13,4 +13,7 @@
   Commited utils.py and utils_tests.py to the repo
 ![image](https://github.com/Tianrui-Luo/ECE444-F2023-Assignment1/assets/77422312/6795978e-023a-4d2c-b448-1b55b7cd45a7)
 ![image](https://github.com/Tianrui-Luo/ECE444-F2023-Assignment1/assets/77422312/508b7eab-f7ad-424e-9962-f3cdbf1e3d6c)
-
+* Activity 5 Screenshot
+  Rebased "rebase" branch to "develop" branch
+  (I used Github desktop to rebase so no command is used)
+![image](https://github.com/Tianrui-Luo/ECE444-F2023-Assignment1/assets/77422312/bd8bd204-33d6-45b8-9f0e-b36983634c52)

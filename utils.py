@@ -1,4 +1,5 @@
 class utils
+
 def reversed(number): 
   print(reverse(number))
 
